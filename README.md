@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Rafael, and I am currently studying an advanced diploma in cross-platform application development.<br><br>When did I start coding?<br>It all began four years ago when I discovered the level editor for the game "Amnesia: The Dark Descent"!. It used the HPL2 engine and some basic scripts to make things happen in custom maps.<br><br>After that, I decided to start studying programming two years ago.<br><br>Apart from that, I really enjoy spending my afternoons coding and learning new things about different programming languages!
+Hello! My name is Rafael, and I am currently studying an advanced diploma in cross-platform application development.<br><br>When did I start coding?<br>It all began four years ago when I discovered the level editor for the game "Amnesia: The Dark Descent"!. It used the HPL2 engine and some basic scripts to make things happen in custom maps.<br><br>After making my own custom map and scripts, I decided to start studying programming two years ago.<br><br>Apart from that, I really enjoy spending my afternoons coding and learning new things about different programming languages!
 
 
 ## 🌐 Socials:
